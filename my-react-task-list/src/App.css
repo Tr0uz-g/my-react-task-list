@@ -1,0 +1,45 @@
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 430px;
+  height: 430px;
+  border: 1px rgb(0, 0, 0) solid;
+  border-radius: 15px;
+}
+
+Input {
+  margin: 20px;
+}
+
+.clear { 
+  display: flex;
+  justify-content: space-evenly;
+  margin: 8px;
+}
+
+input {
+  height: 30px;
+}
+
+button {
+  height: 33px;
+}
+
+.button3 {
+  height: 24px;
+  background-color: rgb(255, 49, 49);
+}
+
+
+.botton2 {
+  background-color: rgb(255, 49, 49);
+}
+
+.botton1 {
+  background-color: aqua;
+}
